@@ -4,7 +4,7 @@
   - Leading the final year project at university of Moratuwa
 
 - 🌱 In my free time I, 
-  - Like to build things.
+  - Like to design, code and build things from scratch.
   - Learn computer science concepts and new technologies
 
 - 📫 Reach me namalsanjaya23@gmail.com
