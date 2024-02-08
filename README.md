@@ -1,7 +1,8 @@
 <h4>Hi 👋, I'm Namal Sanjaya</h4>
 
 - 🔭 I’m currently,
-  - Leading the final year project at university of Moratuwa
+  - Working as a Software Engineer at Axiata Digital Labs.
+  - Building a `student networking platform` that is a one-stop for all students' needs. This will be exclusively operated for students at the University of Moratuwa.
 
 - 🌱 In my free time I, 
   - Like to design, code and build things from scratch.
