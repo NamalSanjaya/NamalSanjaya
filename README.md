@@ -1,8 +1,8 @@
 <h4>Hi 👋, I'm Namal Sanjaya</h4>
 
 - 🔭 I’m currently,
-  - Working as a Software Engineer at Axiata Digital Labs.
-  - Building a `student networking platform` that is a one-stop for all students' needs. This will be exclusively operated for students at the University of Moratuwa. (https://community.nexster.xyz/)
+  - Working as a Software Engineer at PickMe.
+  - Founder of the Nexster Project, Sri Lanka's first student networking platform. (https://community.nexster.xyz/)
 
 - 🌱 In my free time I, 
   - Like to design, code and build things from scratch.
