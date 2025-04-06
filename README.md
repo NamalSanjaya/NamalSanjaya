@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently,
   - Working as a Software Engineer at PickMe.
-  - Founder of the Nexster Project, Sri Lanka's first student networking platform. (https://community.nexster.xyz/)
+  - Founder of the Nexster Project, Sri Lanka's first student networking platform. (https://github.com/NexsterOrg)
 
 - 🌱 In my free time I, 
   - Like to design, code and build things from scratch.
