@@ -1,7 +1,7 @@
 <h4>Hi 👋, I'm Namal Sanjaya</h4>
 
 - 🔭 I’m currently,
-  - Working as a Software Engineer at PickMe.
+  - Working as a Senior Software Engineer at PickMe.
   - Founder of the Nexster Project, Sri Lanka's first student networking platform. (https://github.com/NexsterOrg)
 
 - 🌱 In my free time I, 
